@@ -16,7 +16,7 @@ public class Examen_entornos {
         NewClass a = new NewClass();
         int prlmp = 1;
         for (int i = 0; i < a.primeros3impares(6).length; i++) {
-            prlmp = a.primeros3impares(9)[i] * prlmp;
+            prlmp = a.primeros3impares(13)[i] * prlmp;
 
             //System.out.println(a.primeros3impares(13[i]);
         }
